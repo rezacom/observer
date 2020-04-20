@@ -1,0 +1,22 @@
+body {
+  direction: rtl;
+}
+input {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+button {
+  border: 0;
+  outline: 0;
+  border-radius: 5px;
+  background: green;
+  color: #fff;
+  font-family: tahoma;
+  padding: 7px;
+  cursor: pointer;
+}
+#observable {
+  background: #c1e6f4;
+}
