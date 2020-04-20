@@ -11,8 +11,6 @@ class ObserverPattern {
   }
 }
 
-
-
 var observerInstance = new ObserverPattern();
 
 document.getElementById("add").addEventListener('click',() => {
